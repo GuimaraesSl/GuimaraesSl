@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### 😃 Olá pessoal, me chamo Gabriel Al-Samir. Atualmente sou Técnico em Redes de Computadores, porém apaixonado por programação. Possuou experiência em Programação Mobile, Banco de Dados e Programação Desktop, com proximidade em Java, Python, Dart, SQL e Flutter. 😄
 
 ##### 📫 Link do meu Linkedin: https://www.linkedin.com/in/gabriel-al-samir-guimarães-sales-3316231a7
