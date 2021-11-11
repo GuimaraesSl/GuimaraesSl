@@ -1,4 +1,4 @@
-### 😃 Olá pessoal, me chamo Gabriel Al-Samir. Sou formado como Técnico em Redes de Computadores e atualmente estudante de Engenharia Mecânica, porém apaixonado por programação. Possuou experiência em Programação Mobile nativa Android, Banco de Dados e Programação Desktop, com proximidade em Java, Python, Dart, SQLite e Flutter. 😄
+### 😃 Olá pessoal, me chamo Gabriel Al-Samir. Sou formado como Técnico em Redes de Computadores e atualmente estudante de Engenharia Mecânica, porém apaixonado por programação. Possuou experiência em Programação Mobile nativa Android, Java, Python, Dart, SQLite e Flutter. 😄
 
 ##### 📫 Link do meu Linkedin: www.linkedin.com/in/gabriel-al-samir-guimarães-sales-3316231a7/
 
