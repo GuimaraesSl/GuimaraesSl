@@ -40,4 +40,4 @@ _💻 &nbsp; Software architecture, processes, project and team management, agil
 
 ##### Hope to have contact with you!! 👋
   
-![Snake animation](https://github.com/edjunior0/edjunior0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuimaraesSl/GuimaraesSl/blob/output/github-contribution-grid-snake.svg)
