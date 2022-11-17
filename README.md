@@ -1,15 +1,16 @@
 ### 👋 Hi there!! I'm Gabriel Al-Samir.
 
-##### 🎓 *Bachelor in Software Enginner - UFC-Campus Quixadá.*
-##### 💻 *software architecture, processes, project and team management, agile methodologies, mobile development and JavaScript ecosystem.*
-  
+_🎓 &nbsp; Bachelor in Software Enginner - UFC-Campus Quixadá._
+_💻 &nbsp; Software architecture, processes, project and team management, agile methodologies, mobile development and JavaScript ecosystem._
+
+<hr/>
+<br/>
+
 <div align="center">
   <a href="https://github.com/GuimaraesSl">
   <img height="170em" src="https://github-readme-stats-guimaraessl.vercel.app/api?username=guimaraessl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-guimaraessl.vercel.app/api/top-langs/?username=guimaraessl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-
   
 <div style="display: inline_block"><br>
 <p align="left">
@@ -25,7 +26,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="30"/>
   
-
 ##
   
 <br>
@@ -39,3 +39,5 @@
 </div>
 
 ##### Hope to have contact with you!! 👋
+  
+![Snake animation](https://github.com/edjunior0/edjunior0/blob/output/github-contribution-grid-snake.svg)
