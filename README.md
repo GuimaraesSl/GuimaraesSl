@@ -1,7 +1,8 @@
 ### 👋 Hi there!! I'm Gabriel Al-Samir.
 
-_🎓 &nbsp; Bachelor in Software Enginner - UFC-Campus Quixadá._
-_💻 &nbsp; Software architecture, processes, project and team management, agile methodologies, mobile development and JavaScript ecosystem._
+_🎓 &nbsp; Bachelor in Software Enginner - UFC-Campus Quixadá_
+
+_💻 &nbsp; Software architecture, processes, project and team management, agile methodologies, mobile development and JavaScript ecosystem_
 
 <hr/>
 <br/>
