@@ -2,7 +2,7 @@
 
 _🎓 &nbsp; Bachelor in Software Enginner - UFC-Campus Quixadá_
 
-_💻 &nbsp; Software architecture, processes, project and team management, agile methodologies, mobile development and JavaScript ecosystem_
+_💻 &nbsp; Software architecture, processes, project and team management, mobile development, React, Node, TypeScript, C#
 
 <hr/>
 <br/>
